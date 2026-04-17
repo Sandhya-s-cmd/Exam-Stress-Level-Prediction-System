@@ -141,10 +141,3 @@ Counseling Advice:
 - **Evaluation**: Accuracy, Classification Report, Confusion Matrix
 - **Visualization**: Feature importance plots, confusion matrix heatmap
 
-## Contributing
-
-Feel free to enhance the system with:
-- Additional machine learning models
-- More sophisticated counseling algorithms
-- Web interface implementation
-- Mobile app compatibility
